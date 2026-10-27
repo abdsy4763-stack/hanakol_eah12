@@ -1,0 +1,6 @@
+{
+  "name": "هناكل إيه؟ - مساعد الطهي الذكي",
+  "description": "تطبيق ذكي لاقتراح وصفات طعام شهية بالذكاء الاصطناعي بناءً على المكونات المتوفرة لديك مع مخزن المنزل، خطة الأسبوع، وقائمة التسوق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
